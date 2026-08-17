@@ -106,6 +106,8 @@ src/problem2
 
 ## Run
 
+Requires Node.js `20.19+` or `22.12+`.
+
 Install dependencies once:
 
 ```bash
